@@ -8,7 +8,7 @@ import sys
 import os,argparse,requests
 from colorama import init
 init()                        #Needed for Windows ansi colours to display correctly
-UserAgent = {'User-Agent': 'B0sxx Fr@m3w0rk'}
+UserAgent = {'User-Agent': 'B0ssx Fr@m3w0rk'}
 
 #Function to check email address against www.haveibeenpwned.com
 def qcheck_haveibeenpwned(email):
